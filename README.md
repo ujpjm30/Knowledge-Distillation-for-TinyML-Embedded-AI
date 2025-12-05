@@ -20,13 +20,13 @@ Seven emotion classes, 2800 high-quality audio samples (.wav), balanced across c
 
 ### Student Models
 #### Wav2Small
-- ~90K parameters  
+- 90K parameters  
 - CNN-based VGG7-inspired architecture using LogMel spectrograms  
 - Designed for edge deployment  
 - Best performance: **94.82% accuracy**
 
 #### Wav2Tiny
-- ~15K parameters  
+- 15K parameters  
 - Further channel reductions and simplified pooling  
 - Ultra-compact footprint for microcontroller-scale environments  
 - Best performance: **86.25% accuracy**
